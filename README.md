@@ -76,7 +76,7 @@ int main() {
 
 
 ## OUTPUT
-![Alt text](<../Screenshot at 2026-03-14 16-00-43.png>)
+/home/kalaimaran/os/ex4/Screenshot at 2026-03-14 16-00-43.png
 
 
 
